@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mirjalol209/Afed-group-website.git/static/css/main.6288156f.css",
+    "main.js": "/Mirjalol209/Afed-group-website.git/static/js/main.7efef300.js",
+    "static/media/offer-product-1.png": "/Mirjalol209/Afed-group-website.git/static/media/offer-product-1.2716e0f42371e10fcd6e.png",
+    "static/media/about-us-lg.png": "/Mirjalol209/Afed-group-website.git/static/media/about-us-lg.fb84b96b1e41058b5b29.png",
+    "static/media/offer-product-2.png": "/Mirjalol209/Afed-group-website.git/static/media/offer-product-2.a727e87833c8b7390614.png",
+    "static/media/home-banner-img.jpg": "/Mirjalol209/Afed-group-website.git/static/media/home-banner-img.fcf86d2e679ed2c2f23c.jpg",
+    "static/media/future-location.jpg": "/Mirjalol209/Afed-group-website.git/static/media/future-location.4e71416d69ae90266146.jpg",
+    "static/media/about-us-sm.png": "/Mirjalol209/Afed-group-website.git/static/media/about-us-sm.8706ef530306e8a68b51.png",
+    "static/media/contact-profile.jpg": "/Mirjalol209/Afed-group-website.git/static/media/contact-profile.a6851b3e8b75c7ab701d.jpg",
+    "static/media/quality.svg": "/Mirjalol209/Afed-group-website.git/static/media/quality.fed61b23f61ac6436684a5fad8806542.svg",
+    "static/media/efficiency.svg": "/Mirjalol209/Afed-group-website.git/static/media/efficiency.73dd7f95207d6d9d5bcc11c02b2cd4c2.svg",
+    "static/media/location.svg": "/Mirjalol209/Afed-group-website.git/static/media/location.6410c5b48c1de6d48bdb9c3e03172561.svg",
+    "static/media/professionalism.svg": "/Mirjalol209/Afed-group-website.git/static/media/professionalism.4c68db1d4ddd6ad886cdfd0d503b331f.svg",
+    "static/media/loupe.svg": "/Mirjalol209/Afed-group-website.git/static/media/loupe.ab71a221fd62dd0d77d534a35022467f.svg",
+    "static/media/metro.svg": "/Mirjalol209/Afed-group-website.git/static/media/metro.f1c9e26012ef256220353b807f044f2e.svg",
+    "static/media/mada-v16-latin-regular.woff": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-regular.cf30db3ae0450ff4f613.woff",
+    "static/media/mada-v16-latin-600.woff": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-600.adf533897038e0d7c014.woff",
+    "static/media/mada-v16-latin-700.woff": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-700.7ad3e209c57827a90eb4.woff",
+    "static/media/management-zafar.jpg": "/Mirjalol209/Afed-group-website.git/static/media/management-zafar.d5060fe690f407b98fea.jpg",
+    "static/media/experience.svg": "/Mirjalol209/Afed-group-website.git/static/media/experience.536fc4f78232519db1ccdf28d357b8e6.svg",
+    "static/media/mada-v16-latin-regular.woff2": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-regular.d165c2525261303fcfe5.woff2",
+    "static/media/mada-v16-latin-600.woff2": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-600.7423a541512022d7e60e.woff2",
+    "static/media/mada-v16-latin-700.woff2": "/Mirjalol209/Afed-group-website.git/static/media/mada-v16-latin-700.c3218243a5bfb04fce3f.woff2",
+    "static/media/header-logo-lg.svg": "/Mirjalol209/Afed-group-website.git/static/media/header-logo-lg.323ddb5a167474468c04866b60d49512.svg",
+    "static/media/footer-logo-lg.svg": "/Mirjalol209/Afed-group-website.git/static/media/footer-logo-lg.fc29500e192ba62bf625cdd0c05b533a.svg",
+    "static/media/header-logo-sm.svg": "/Mirjalol209/Afed-group-website.git/static/media/header-logo-sm.fc29500e192ba62bf625cdd0c05b533a.svg",
+    "static/media/Activity.svg": "/Mirjalol209/Afed-group-website.git/static/media/Activity.09d0130819f724f0f5207f559b84fb7a.svg",
+    "static/media/Password.svg": "/Mirjalol209/Afed-group-website.git/static/media/Password.b7ee4e497bf9e0e61033cf90869134b9.svg",
+    "static/media/Shield.svg": "/Mirjalol209/Afed-group-website.git/static/media/Shield.9c023c65cba22b0e2094318188ba1e58.svg",
+    "static/media/Chart.svg": "/Mirjalol209/Afed-group-website.git/static/media/Chart.3ffa38a16d99ac481476ba63a840182e.svg",
+    "static/media/Document.svg": "/Mirjalol209/Afed-group-website.git/static/media/Document.f1060934fc212ca59b9020d903ec779e.svg",
+    "static/media/Graph.svg": "/Mirjalol209/Afed-group-website.git/static/media/Graph.17e22c51222b53573a944e062c2bf9f6.svg",
+    "index.html": "/Mirjalol209/Afed-group-website.git/index.html",
+    "main.6288156f.css.map": "/Mirjalol209/Afed-group-website.git/static/css/main.6288156f.css.map",
+    "main.7efef300.js.map": "/Mirjalol209/Afed-group-website.git/static/js/main.7efef300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6288156f.css",
+    "static/js/main.7efef300.js"
+  ]
+}
