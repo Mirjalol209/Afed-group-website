@@ -33,11 +33,10 @@ export const About = ()=> {
                    The Center is an organization that creates effective and transparent mechanisms for the development and implementation of projects in the field of information and communication technologies within the framework of the Electronic Government system, as well as provides a high-quality examination of projects, design and technical documentation in this area.
              </div>
             </div>
-            <hr className="line wrapper about__line" />
-            <div className="areas__section wrapper">
-              <div className="areas__title">
-                Arias of activity of the Center
+            <div className="areas__title wrapper">
+              <h1>Arias of activity of the Center</h1>  
               </div>
+            <div className="areas__section wrapper">
         <div className="areas__text">The Center implements the main directions of reforms in the digital economy and improvement of the "Electronic Government" system as part of the development of the "Electronic Government" system and the "Digital Uzbekistan-2030" program (hereinafter referred to as the programs), in particular:
     </div>
           <div className="areas__card">

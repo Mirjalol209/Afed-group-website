@@ -16,21 +16,16 @@ export const Home = ()=> {
               <Header />
               <div className="home__banner">
                 <div className="home__banner__title">
-                  <div class="patterns">
-                    <svg width="100%" height="100%">
-                      <text x="50%" y="60%" text-anchor="middle" fill="black">
-                        Welcome to Afed group!
-                      </text>
-                    </svg>
+                   
+                      <h1>Welcome to Afed group!</h1>              
                     <h2>We are glad see to see you on our website.</h2>
-                  </div>
                 </div>
               </div>
               <div className="advantages__section">
                 <div className="advantages__title">Our advantages</div>
                 <div className="advantages__intro">
                   <div class="advantages__card">
-                    <img src={Shield} alt="/" />
+                    <img src={Shield} alt="/" color={"black"} />
                     <h1>Daring to do our best work</h1>
                   </div>
                   <div class="advantages__card">

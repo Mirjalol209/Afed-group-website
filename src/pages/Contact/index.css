@@ -11,7 +11,7 @@
     font-weight: 700;
     font-size: 40px;
     letter-spacing: 5px;
-    color: #c5bf9f;
+    color: #5F5959;
   }
   .contact__line {
     margin: 20px auto 50px auto;
@@ -32,12 +32,11 @@
   }
   .card__border {
     width: 100%;
-    border: 2px solid #c5bf9f;
     border-radius: 5px;
     padding: 20px;
   }
   .contact__first h3 {
-    color: #c5bf9f;
+    color: #000;
     font-weight: 700;
     padding-bottom: 5px;
     padding-top: 10px;
@@ -60,20 +59,19 @@
     cursor: pointer;
   }
   .contact__second h3 {
-    color: #c5bf9f;
+    color: #000;
     font-weight: 700;
     padding-bottom: 5px;
     padding-top: 10px;
   }
   .contact__second span {
-    color: rgb(160, 160, 160);
+    color: #5F5959;
     font-weight: 700;
   }
   .contact__second p {
     padding-bottom: 5px;
   }
   .contact__img {
-    border: 2px solid #c5bf9f;
     grid-column-start: 3;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -84,7 +82,6 @@
   }
   
   .contact__map {
-    border: 2px solid #c5bf9f;
     grid-column-start: 1;
     grid-column-end: 3;
   }
